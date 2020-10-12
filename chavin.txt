@@ -1,2 +1,13 @@
 hola soy chavin y tengo 32 años
 estoy trabajando en git y ganando dinero y vivo bien
+
+git init // inicia un repositorio
+git add . // agrega los cambios al repositoio
+git commit -m 'comentario'  // guarda los cambios agregados
+
+git log-- oneline // muestra las versiones con resumen de información
+git log  // muestra las versiones con información extensa
+
+git checkout id o master // recupera alguna de las versiones en el repositorio
+
+git status // muestra el estatus de los archivos
