@@ -11,3 +11,7 @@ git log  // muestra las versiones con información extensa
 git checkout id o master // recupera alguna de las versiones en el repositorio
 
 git status // muestra el estatus de los archivos
+
+git reset -- id o master hard // borra las versiones posteriroes al id
+
+git branch // muestra las ramas
