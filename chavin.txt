@@ -15,3 +15,7 @@ git status // muestra el estatus de los archivos
 git reset -- id o master hard // borra las versiones posteriroes al id
 
 git branch // muestra las ramas
+
+git merge (nombre de rama) // une las ramas
+
+git commit -am 'comentario' // guarda cambios en las versiones siempre y cuando ya se hayana inicializado
